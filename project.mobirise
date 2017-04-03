@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Partner.html",
     "name": "Pastor K",
     "theme": {
       "name": "mobirise3",
@@ -296,7 +296,7 @@
           "title1": "Eternity Ministries Inc.",
           "subtitle1": "",
           "caption1": "Eternity Ministries Inc. is located in Charleston SC. Pastored by Pastor K, have services every Saturday @ 6:00 pm, Sunday @ 12:30 pm, and Bible Study every Monday @ 7:00 pm. Click the link to be taken to the website. ",
-          "button1": "<a data-app-btn=\"true\" href=\"bit.ly/eternitymin\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Eternity Ministries</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://eternityemerge.businesscatalyst.com/index.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Eternity Ministries</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/20170321-600x558.jpg",
@@ -312,7 +312,7 @@
           "title2": "The Pastors Lounge Podcast",
           "subtitle2": "",
           "caption2": "Download Castbox on your Android or Apple phone and subscribe&nbsp;to <br>The Pastors Lounge and Eternity Ministries Podcast&nbsp;<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://blogtalkradio.com/thepastorslounge\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Podcast Site</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://blogtalkradio.com/pastorslounge\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Podcast Site</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sage-600x257.jpg",
@@ -1039,7 +1039,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"bit.ly/emgiver\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.easytithe.com/eternitymin\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!</a> "
         },
         {
           "_name": "footer1",
