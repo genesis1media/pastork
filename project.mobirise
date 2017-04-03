@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Partner.html",
+    "currentPage": "index.html",
     "name": "Pastor K",
     "theme": {
       "name": "mobirise3",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pastor K</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Messages.html\" aria-expanded=\"false\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"false\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"true\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://podpoint.com/eternity-ministries-podcast\" aria-expanded=\"false\" target=\"_blank\">Messages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
         },
         {
           "_name": "footer1",
@@ -255,6 +255,11 @@
             },
             ".btn": {
               "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "features1-z",
@@ -287,7 +292,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "bit.ly/eternitymin",
+              "link": "http://eternityemerge.businesscatalyst.com/index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -303,7 +308,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://blogtalkradio.com/thepastorslounge",
+              "link": "https://blogtalkradio.com/pastorslounge",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -319,15 +324,15 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "www.reverbnation.com/ministersage",
+              "link": "https://reverbnation.com/ministersage",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
-          "title3": "<br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Minister Sage</span><br>",
-          "subtitle3": "",
-          "caption3": "The Gospel Rap ministry of Pastor Sage is one of intensity, boldness, radical, and passionate. Every song preaches Jesus in a way&nbsp;that will engage everyone from&nbsp;the youngest&nbsp;to&nbsp;the seasoned.&nbsp;<br>",
+          "title3": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Minister Sage</span><br>",
+          "subtitle3": "<span style=\"font-style: normal;\">S.erving (The) A.lmighty G.od E.ternally</span>",
+          "caption3": "The Gospel Rap ministry of Pastor Sage is one of intensity, boldness, radical, and passionate. Every song preaches Jesus in a way&nbsp;that will engage everyone from&nbsp;the youngest&nbsp;to&nbsp;the seasoned.&nbsp;<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://reverbnation.com/ministersage\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Minister Sage Site</a>",
           "media4": {
             "image": {
@@ -463,7 +468,7 @@
             "overlayColor": "#ffffff"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.periscope.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">&nbsp;<span class=\"socicon socicon-periscope mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/kareymheyward/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.periscope.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">&nbsp;<span class=\"socicon socicon-periscope mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/kareyheyward\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -618,7 +623,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pastor K</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Messages.html\" aria-expanded=\"false\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"false\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"true\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://podpoint.com/eternity-ministries-podcast\" aria-expanded=\"false\" target=\"_blank\">Messages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
         },
         {
           "_name": "footer1",
@@ -1012,7 +1017,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pastor K</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Messages.html\" aria-expanded=\"false\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"false\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"true\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://podpoint.com/eternity-ministries-podcast\" aria-expanded=\"false\" target=\"_blank\">Messages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
         },
         {
           "_tags": [
@@ -1039,7 +1044,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.easytithe.com/eternitymin\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://easytithe.com/eternitymin\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!</a> "
         },
         {
           "_name": "footer1",
@@ -1154,7 +1159,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pastor K</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Messages.html\" aria-expanded=\"false\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"false\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features1-z\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Eternity Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Podcast</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\" aria-expanded=\"false\">Minister Sage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-z\">Radical Revolution</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Itinerary.html\">Itinerary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Partner.html\" aria-expanded=\"false\">Partner</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons2-e\" aria-expanded=\"true\">Connect</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-e\">Social Media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-11\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://podpoint.com/eternity-ministries-podcast\" aria-expanded=\"false\" target=\"_blank\">Messages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://goo.gl/forms/0P6B3aVXlwBT4Zyk1\" target=\"_blank\">Book Pastor K</a></li>"
         },
         {
           "_name": "footer1",

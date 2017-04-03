@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -500,6 +502,10 @@ h6,
 }
 #features1-z .btn {
   font-size: 14px;
+}
+#features1-z .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box1-10 SPAN {
   text-align: left;
