@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Partner.html",
     "name": "Pastor K",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -206,7 +206,7 @@
             "bgColor": "#fff"
           },
           "text1": "Welcome to the website of Pastor Karey M. Heyward, aka Pastor K. This website is a one stop shop for the various ministries and resources provided by Pastor K under the umbrella name, KMH Ministries.&nbsp;",
-          "text2": "<p>From Pastoring in Charleston SC, radio podcast host, Christian rapper, youth event hoster, traveling to minister at conferences, services, youth services, and a host of other operations, Pastor K is relentless and diligent in his pursuit to remain forward in Kingdom Advancement, Gospel preaching, soul reaching, and seeing lives change by the name &amp; power of Jesus Christ&nbsp;</p>",
+          "text2": "&nbsp;<p>e From Pastoring in Charleston SC, radio podcast host, Christian rapper, youth event hoster, traveling to minister at conferences, services, youth services, and a host of other operations, Pastor K is relentless and diligent in his pursuit to remain forward in Kingdom Advancement, Gospel preaching, soul reaching, and seeing lives change by the name &amp; power of Jesus Christ&nbsp;</p>",
           "text3": "<p>If you have an upcoming service or event and would like to have Pastor K in ministry, select the link to be taken to the booking form below. Thank you and we look forward to seeing you soon. &nbsp;</p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>"
         },
         {
@@ -1044,7 +1044,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://easytithe.com/eternitymin\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://easytithe.com/eternitymin\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner with us!<br><br>In&nbsp;the dropdown menu, select KMH Ministries<br></a> "
         },
         {
           "_name": "footer1",
