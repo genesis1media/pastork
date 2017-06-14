@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Itinerary.html",
     "name": "Pastor K",
     "theme": {
       "name": "mobirise3",
@@ -1273,7 +1273,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Every Saturday @ 6:00 pm: Eternity Ministries | 2607 Seymour Ave. N Chas SC | Worship Service</b></p><p><b>Every Sunday @ 12:30 pm: Eternity Ministries | 2607 Seymour Ave. N Chas SC | Worship Service</b></p><p><b>June 3, 2017 @ 3:00 pm: Sandra Wilson live audience tv interview | Charleston Library, Calhoun St., Charleston SC</b></p><p><b>June 3, 2017 @ 5:00 pm: Old School Revival | Eternity Ministries | 2607 Seymour Ave. N Chas SC&nbsp;</b></p><p><b>June 15-16, 2017 @ 7:00 pm: 2 night revival | Shabach Church</b></p>"
+          "text": "<p><b>Every Saturday @ 6:00 pm: Eternity Ministries | 2607 Seymour Ave. N Chas SC | Worship Service</b></p><p><b>Every Sunday @ 12:30 pm: Eternity Ministries | 2607 Seymour Ave. N Chas SC | Worship Service</b></p><p><b>June 15-16, 2017 @ 7:00 pm: 2 night revival | Shabach Church</b></p>"
         },
         {
           "_inherit": "gallery1",
@@ -1292,6 +1292,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/16807299-1527494737290831-486719051476766816-n-2000x1443-800x577.jpg",
                 "image": "@PROJECT_PATH@/assets/images/16807299-1527494737290831-486719051476766816-n-2000x1443.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18740233-809212459238157-4773454250468644635-n-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18740233-809212459238157-4773454250468644635-n-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
